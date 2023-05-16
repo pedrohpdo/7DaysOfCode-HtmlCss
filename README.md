@@ -9,4 +9,4 @@ Uma empresa de TI quer desenvolver uma página destinada a novas contratações 
 ## Day01: Cabeçalho
 No primeiro dia, só foi necessário desenvolver o cabeçalho do site, a barra de navegação(navbar), onde contemplava o logo da empresa, o menu e dois botões de interação no canto direito.
 
-Utilizado os materiais de referência, também disponíveis no [youtube](https://www.youtube.com/watch?v=tWWVgogdr98){:target="_blank"}, consegui entender melhor o conceito de flexbox dentro do CSS, o que era um caos a primeira vista acabou se tornando menos descomplicado. Tentei implementar os conceitos de eixos principais e transversais da melhor forma possível.
+Utilizado os materiais de referência, também disponíveis no [youtube](https://www.youtube.com/watch?v=tWWVgogdr98), consegui entender melhor o conceito de flexbox dentro do CSS, o que era um caos a primeira vista acabou se tornando menos descomplicado. Tentei implementar os conceitos de eixos principais e transversais da melhor forma possível.
