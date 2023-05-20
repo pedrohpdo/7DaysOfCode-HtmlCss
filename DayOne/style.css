@@ -13,6 +13,10 @@ body {
     justify-content: center;
 }
 
+li {
+    list-style: none;
+}
+
 .container {
     width: 1440px;
     height: 3500px;
@@ -25,97 +29,73 @@ body {
     align-items: center;
 }
 
-
-.navbar {
+.top-menu {
     width: 100%;
     height: 80px;
 
     display: flex;
-    flex-direction: row;
-    align-items: center;
+    flex-wrap: wrap;
 
-    padding: 5px 32px;
-}
-
-.logo-space {
-    width: 20%;
-    display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
 }
 
-#logo {
-    margin-right: 8px;
-    display: flex;
-    align-items: center;
+.top-menu img {
+    width: 27px;
+    height: 28px;
+    margin: 0 8px 0 112px;
 }
 
-#name {
+.top-menu h6 {
     font-weight: 500;
     font-size: 18px;
+    line-height: 24px;
+    margin-right: 119px;
     color: #3A404E;
+
 }
 
-.menu-bar {
-    width: 60%;
+.top-menu nav {
+    width: max-content;
+    height: 32px;   
+    
     display: flex;
-    justify-content: flex-start;
+    align-items: center;
+    margin-right: 200px;
 }
 
-.menu-bar ul {
-    width: 100%;
+.menu ul {
     display: flex;
-    flex-direction: row;
-    align-items: left;
+    align-items: center;
 }
 
-.menu-bar li {
-    text-decoration: none;
-    list-style-type: none;
-    margin-left: 32px;
+.menu li {
+    margin: 0 32px;
 }
 
-.menu-bar a {
-    text-decoration: none;
+a {
     font-weight: 500;
     font-size: 16px;
-    font-style: normal;
+    text-decoration: none;
     color: #667085;
 }
 
-.menu-buttons {
-    width: 20%;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-.menu-buttons button, a {
-    border: none;
+button {
+    width: 112px;
+    height: 44px;
     background-color: transparent;
-    text-decoration: none;
-    text-align: center;
-    font-size: 16px;
-    font-weight: 500;
-    font-style: normal;
-}
-
-.menu-buttons #button-entrar {
     padding: 10px 18px 10px 18px;
-}
-
-#button-entrar a {
-    color: #667085
-}
-
-#button-cadastrar a {
-    padding: 10px 18px 10px 18px;
+    border: none;
     border-radius: 8px;
     background-color: #8E2424;
-    color: #fff
+    margin-left: 20px;
 }
 
-.header{
+button a {
+    color: #fff;    
+}
+
+header{
     width: 100%;
     height: 407px;
     padding: 96px 0px;
@@ -126,14 +106,14 @@ body {
     justify-content: center;
 }
 
-.header #section h6{
+header #section h6{
     color: #8E2424;
     font-size: 16px;
     font-weight: 600;
     line-height: 24px;
 }
 
-.header #headline h1 {
+header #headline h1 {
     font-size: 48px;
     font-style: normal;
     font-weight: 600;
@@ -143,14 +123,150 @@ body {
     margin-bottom: 36px;
 }
 
-.header #description {
+header #description {
     width: 791px;
     text-align: center;
 }
 
-.header #description h3 {
+header #description h3 {
     font-weight: 400;
     font-size: 15px;
     color: #667085;
     line-height: 30px;
 }
+
+.feedbacks {
+    width: 100%;
+    height: 288px;
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    width: 280px;
+    height: 168px;
+}
+
+.content h2{
+    font-weight: 600;
+    font-size: 60px;
+    margin-bottom: 12px;
+    letter-spacing: -2px;
+    color: #8e2424
+}
+
+.content h6 {
+    margin-bottom: 8px;
+    color: #101828;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px
+}
+
+.content p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #667085;
+}
+
+.vagas {
+    width: 1440px;
+    height: 1798px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.vagas span {
+    width: 130px;
+    height: 28px;
+    color: #8e2424;
+    font-weight: 500;
+    font-size: 14px;
+    border-radius: 16px;
+    
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+
+    background-color: #8E24240D ;
+}
+
+#title-vagas {
+    width: 768px;
+    height: 44px;
+    
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -2px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+    color: #101828;
+}
+
+#subtitle-vagas {
+    width: 768px;
+    height: 30px;
+    text-align: center;
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #667085;
+    margin-bottom: 64px;
+}
+
+.vagas img {
+    margin-bottom: 64px;
+}
+
+.vagas h6{
+    width: 768px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 36px;
+}
+
+#vagas-list {
+    width: 1280px;
+    height: max-content;
+    padding: 0 32px 0 32px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 64px;
+}
+
+#label-vaga {
+    width: 768px;
+    height: 136px;
+    padding: 24px 24px 28px 24px;
+    border: 2px solid #EAECF0;
+    margin-bottom: 24px;
+    border-radius: 16px;
+}
+
+dt {
+    width: 720px;
+    height: 28px;
+
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #101828;
+}
+
+.depoimento {
+    height: max-content;
+}
+
+
