@@ -11,7 +11,8 @@ No primeiro dia, só foi necessário desenvolver o cabeçalho do site, a barra d
 
 Utilizado os materiais de referência, também disponíveis no [youtube](https://www.youtube.com/watch?v=tWWVgogdr98), consegui entender melhor o conceito de flexbox dentro do CSS, o que era um caos a primeira vista acabou se tornando menos descomplicado. Tentei implementar os conceitos de eixos principais e transversais da melhor forma possível.
 
-[img src="README imgs/NavBar.png"](Teste)
-
+<p>
+    <img src="assets/toREADME/NavBar.png">
+</p>
 
 ## Day01: Primeira Seção
