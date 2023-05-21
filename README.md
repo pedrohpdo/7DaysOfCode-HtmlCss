@@ -15,4 +15,10 @@ Utilizado os materiais de referência, também disponíveis no [youtube](https:/
     <img width="100%" src="DayOne/assets/toREADME/NavBar.png">
 </p>
 
-## Day01: Primeira Seção
+## Day02: Primeira Seção
+
+Segundo dia: Reproduzir a primeira seção do site mostrada abaixo.
+
+<p>
+    <img width="100%" src="DayOne/assets/toREADME/Cabeçalho.png">
+</p>
