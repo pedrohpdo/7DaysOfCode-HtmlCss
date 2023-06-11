@@ -46,9 +46,16 @@ Quarto dia: Inserção de Imagens dentro de um seção usando html e css. Curios
     <img width="100%" src="assets/toREADME/Talentos.png">
 </p>
 
-## Day05: Seção de Vagas
+## Day 05: Seção de Vagas
 Quinto dia: Acho que pode ter sido a parte mais complicadinha do desafio. Por mais que me foi dado a dica de usar div, acabei utilizando muito o conceito de ul / listas desordenadas (unordered list) e o conceito de dt e dd (Description Lists), por algum motivo fez sentido usar isso no projeto, e confesso que ficou bem legal!
 
 <p>
     <img width="100%" src="assets/toREADME/VagasAbertas.png">
+</p>
+
+## Day 06: Seção de Depoimentos
+Sexto dia: Mais um dia que gastei o flexbox no projeto (kkkkkkk), mas gostei muito de praticar, me familiarizar com esse conceito me abre um leque de possibilidades diferentes e me estigou a estudar os outros conceitos de Display!
+
+<p>
+    <img width="100%" src="assets/toREADME/Depoimentos.png">
 </p>
