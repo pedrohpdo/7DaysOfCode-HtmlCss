@@ -34,17 +34,20 @@ body {
     align-items: center;
     justify-content: space-between;
 }
-
-.top-menu img {
-    width: 27px;
-    height: 28px;
-    margin: 0 8px 0 32px;
+.logo{
+    display: flex;
+    align-items: center;
 }
 
-.top-menu h6 {
+.logo img {
+    width: 27px;
+    height: 28px;
+    margin-right: 8px;
+}
+
+.logo span {
     font-weight: 500;
     font-size: 18px;
-    margin-right: 119px;
     color: #3A404E;
 }
 
