@@ -34,7 +34,7 @@ body {
     align-items: center;
     justify-content: space-between;
 }
-.logo{
+.logo {
     display: flex;
     align-items: center;
 }
@@ -53,10 +53,10 @@ body {
 
 .top-menu nav {
     width: 50%;
+    gap: 32px;
     
     display: flex;
-    gap: 32px;
-    margin-right: 200px;
+
 }
 
 a {
@@ -73,6 +73,7 @@ button {
     border: none;
     border-radius: 8px;
     background-color: #8E2424;
+
     margin-left: 20px;
 }
 
