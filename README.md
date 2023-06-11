@@ -37,3 +37,11 @@ De toda forma, o conceito de flexbox ainda ajudou muito a construção do projet
 </p>
 
 Terceiro dia: Implementação da Seção de Métricas de dá página. O conceito de flexbox ajuda muito, mas ainda preciso reforçar bem as tags semânticas em HTMl, pra não querer jogar tudo numa div, fiz alguns exercícios da faculdade assim e é uma atrocidade de ser ler (kkkkkkkk).
+
+## Day 04: Seção com Imagem
+
+Quarto dia: Inserção de Imagens dentro de um seção usando html e css. Curiosamente, depois de entender os conceitos de flexbox, a vida fica um pouco mais fácil e você consegue manipular bem os elementos dentro de uma página.
+
+<p>
+    <img width="100%" src="src/assets/toREADME/Talentos.png">
+</p>
