@@ -45,3 +45,10 @@ Quarto dia: Inserção de Imagens dentro de um seção usando html e css. Curios
 <p>
     <img width="100%" src="assets/toREADME/Talentos.png">
 </p>
+
+## Day05: Seção de Vagas
+Quinto dia: Acho que pode ter sido a parte mais complicadinha do desafio. Por mais que me foi dado a dica de usar div, acabei utilizando muito o conceito de ul / listas desordenadas (unordered list) e o conceito de dt e dd (Description Lists), por algum motivo fez sentido usar isso no projeto, e confesso que ficou bem legal!
+
+<p>
+    <img width="100%" src="assets/toREADME/VagasAbertas.png">
+</p>
