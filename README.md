@@ -59,3 +59,10 @@ Sexto dia: Mais um dia que gastei o flexbox no projeto (kkkkkkk), mas gostei mui
 <p>
     <img width="100%" src="assets/toREADME/Depoimentos.png">
 </p>
+
+## Day 07: Rodapé
+Sétimo/Último dia: O último campo da página, que foi a criação de um pequeno formulário para assinatura de uma newsletter. Aqui dá pra ter uma melhor noção do uso semântico de html5, ao invés de criar divs e mais divs para alocar conteúdos, trabalhar com tags coerentes aos campos é uma alternativa muito mais interessante de otimizar os mecanismos de busca do navegador, assim como melhorar e muito a legibilidade do seu script.
+
+<p>
+    <img width="100%" src="assets/toREADME/Formulário.png">
+</p>
